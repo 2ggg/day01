@@ -8,7 +8,8 @@ public class ex02 {
 		 * \" : "
 		 * \\ : \
 		 */
-		
+		// "문자열" : 문자열
+		System.out.println("안\n녕\t하\"세\\요");
 	}
 
 }
